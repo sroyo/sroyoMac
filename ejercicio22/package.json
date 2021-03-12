@@ -1,0 +1,15 @@
+{
+  "name": "ejercicio22",
+  "version": "1.0.0",
+  "description": "ejercicio 22",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sofia royo",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.0.0"
+  },
+  "devDependencies": {}
+}
